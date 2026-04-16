@@ -14,3 +14,4 @@
 .cxx
 local.properties
 app/src/main/res/row/**/*.mp3
+app/src/main/assets/**/*.mp3
