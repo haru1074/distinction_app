@@ -14,4 +14,6 @@
 .cxx
 local.properties
 app/src/main/res/row/**/*.mp3
+app/src/main/res/row/**/*.DS_Store
 app/src/main/assets/**/*.mp3
+app/src/main/assets/**/*.DS_Store
