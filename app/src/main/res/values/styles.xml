@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="header_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">#333333</item>
+        <item name="android:paddingLeft">30dp</item>
+    </style>
+
+    <style name="mp3_operation_button_wrapper_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginTop">80dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+    <style name="mp3_operation_button_horizontal_wrapper_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="mp3_operation_button_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/mp3_operation_button</item>
+    </style>
+
+    <style name="select_wrapper_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+
+    </style>
+
+    <style name="select_label_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">35</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="select_spinner_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">65</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="android:paddingLeft">15dp</item>
+    </style>
+
+    <style name="set_button_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/set_button</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+</resources>

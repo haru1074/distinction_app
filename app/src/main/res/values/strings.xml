@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Distinction App</string>
+
+    <string-array name="speed_state">
+        <item>0.7</item>
+        <item>0.75</item>
+        <item>0.8</item>
+        <item>0.85</item>
+        <item>0.9</item>
+        <item>0.95</item>
+        <item>1.0</item>
+        <item>1.05</item>
+        <item>1.1</item>
+        <item>1.15</item>
+        <item>1.2</item>
+    </string-array>
+
+    <string-array name="chapter_state">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="section_state">
+        <item>academic</item>
+        <item>phrase</item>
+        <item>sentence</item>
+        <item>snapshot</item>
+        <item>word</item>
+    </string-array>
+
+</resources>
